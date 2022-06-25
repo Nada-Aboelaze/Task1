@@ -1,0 +1,105 @@
+.gold-font-color{
+    color: #bd9030;
+}
+
+.gold-background{
+    background-color: #bd9030;
+}
+
+.hide-border{
+    border: 0px;
+}
+
+.green-font-color{
+    color: #00CE7D;
+    font-size: 14px;
+}
+
+.red-font-color{
+    color: red;
+}
+
+.white-font-color{
+    color: white;
+}
+
+.grey-background-color{
+    background-color: #323232;
+}
+
+.titles{
+    font-family: poppins-medium;
+    font-size: 25px;
+}
+
+.border-gold{
+    border-color: #bd9030;
+    border-radius: 3px;
+    border: solid 1px;
+}
+
+.border-white{
+    border-color: white;
+    border-radius: 3px;
+    border: solid 1px;
+}
+
+.first-section-text{
+    font-family: arialmt;
+    font-size: 15px;
+}
+
+.font-size-25{
+    font-size: 25px;
+}
+
+.drop-down{
+    /* background-color: rgba(255, 255, 255, 0); */
+    border-color: #bd9030;
+    border-radius: 3px;
+    border: solid 1px;
+}
+
+.reset-button{
+    border-radius: 3px;
+    width: 70%;
+    border: 0px;
+    color: white;
+}
+
+.preview-button{
+    border-radius: 3px;
+    width: 70%;
+    border: 0px;
+    color: white;
+    background-color: #00CE7D;
+    font-size: 14px;
+}
+
+.buy-button{
+    border-radius: 3px;
+    width: 100%;
+    border: 0px;
+    color: white;
+    font-family: arial-boldmt;
+    font-size: 25px;
+}
+
+.sell-button{
+    border-radius: 3px;
+    width: 100%;
+    border: 0px;
+    color: black;
+    font-family: arial-boldmt;
+    font-size: 25px;
+}
+
+.font-size-15{
+    font-size: 15px;
+}
+
+.subtitles-font-size{
+    font-size: 20px;
+    font-family: arial-boldmt;
+}
+
